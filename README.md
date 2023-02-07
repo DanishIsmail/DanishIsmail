@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **DanishIsmail/DanishIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Blockchain - Ethereum, Flow
 Databases - SQL Server, MongoDB, MySQL.
 Version Control - Git,
 
-This was last updated on `07-Feb-2022`.
+This was last updated on `07-Feb-2023`.
 
 ### Blockchain
 
