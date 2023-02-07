@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2> Hi there 👋, I'm Danish Ismail </h2>
     
 [![Danish Ismail Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-gakher-769b85189/)
-[![Danish Ismail Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ShamGir)
-[![Danish Ismail Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Dash Daniel#5538)
+[![Danish Ismail Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@DanishGakher)
+[![Danish Ismail Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Dash-Daniel#5538)
 [![Danish Ismail Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/dashdaniel717@gmail.com)
 [![Danish Ismail StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11208852/danish-gakher)
 
