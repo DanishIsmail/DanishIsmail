@@ -25,14 +25,14 @@ I am a problem solver who always thinks about how to solve real-life problems us
 
 ### TECHNICAL SKILLS
 
-Languages - Solidity, Cadence, Php, Pyhton, Javascript, Typescript, C++, C#, Html , Css. Also working on GoLong and Rust.
-Front-End Development - HTML5, CSS3, Bootstrap, Jquery.
-Frameworks - ASP.NET Core, React Js, Angular JS, Node Js, Express.js, Wordpress, Laravel.
-Blockchain - Ethereum, Polygon, Binance Smart-Chain, Avalanche, Fantom, Celo, Flow
-Databases - SQL Server, MongoDB, Postgresql, MySQL.
-Version Control - Git, Gitlab
+- Languages - Solidity, Cadence, Php, Pyhton, Javascript, Typescript, C++, C#, Html , Css. Also working on GoLong and Rust.
+- Front-End Development - HTML5, CSS3, Bootstrap, Jquery.
+- Frameworks - ASP.NET Core, React Js, Angular JS, Node Js, Express.js, Wordpress, Laravel.
+- Blockchain - Ethereum, Polygon, Binance Smart-Chain, Avalanche, Fantom, Celo, Flow
+- Databases - SQL Server, MongoDB, Postgresql, MySQL.
+- Version Control - Git, Gitlab
 
-This was last updated on `07-Feb-2023`.
+This was last updated on `18-Dec-2023`.
 
 ### Blockchain
 
