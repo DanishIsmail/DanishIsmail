@@ -1,5 +1,3 @@
-
-
 <!--
 **DanishIsmail/DanishIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 [![Danish Ismail Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/dashdaniel717@gmail.com)
 [![Danish Ismail StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11208852/danish-gakher)
 
-I'm a Full-stack Blockchain Developer with an experience in multiple Blockchains like (Ethereum and Flow). I am also a contributor in flow Blockchain with my other GitHub account [danishgakher](https://github.com/danishtroon) you can check by navigating to [onflow/cadence](https://github.com/onflow/cadence/graphs/contributors).
+I'm a Full-stack Blockchain Developer with an experience in multiple Blockchains like (Ethereum,Polygon, Binance Smart-Chain, Avalanche, Fantom, Celo and Flow). I am also a contributor in flow Blockchain with my other GitHub account [danishgakher](https://github.com/danishtroon) you can check by navigating to [onflow/cadence](https://github.com/onflow/cadence/graphs/contributors).
 I am a problem solver who always thinks about how to solve real-life problems using high-end technology.I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
 
 ### TECHNICAL SKILLS
@@ -30,9 +28,9 @@ I am a problem solver who always thinks about how to solve real-life problems us
 Languages - Solidity, Cadence, Php, Pyhton, Javascript, Typescript, C++, C#, Html , Css. Also working on GoLong and Rust.
 Front-End Development - HTML5, CSS3, Bootstrap, Jquery.
 Frameworks - ASP.NET Core, React Js, Angular JS, Node Js, Express.js, Wordpress, Laravel.
-Blockchain - Ethereum, Flow
-Databases - SQL Server, MongoDB, MySQL.
-Version Control - Git,
+Blockchain - Ethereum, Polygon, Binance Smart-Chain, Avalanche, Fantom, Celo, Flow
+Databases - SQL Server, MongoDB, Postgresql, MySQL.
+Version Control - Git, Gitlab
 
 This was last updated on `07-Feb-2023`.
 
@@ -40,7 +38,12 @@ This was last updated on `07-Feb-2023`.
 
  <img src="./images/blockchains.png" alt="Blockchain" /> 
  
+### Digital Wallets
+
+ <img src="./images/wallets.png" alt="Blockchain" />
+
 ### Platforms and Framworks
+
  <img src="./images/frameworks.png" alt="Frameworks" /> 
  
 ### Programing Languages
